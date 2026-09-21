@@ -1,0 +1,14 @@
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.AssemblyInfoInputs.cache
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.AssemblyInfo.cs
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.csproj.CoreCompileInputs.cache
+C:\Users\gaule\Trainingprogram\Training\bin\Debug\net10.0\Training.exe
+C:\Users\gaule\Trainingprogram\Training\bin\Debug\net10.0\Training.deps.json
+C:\Users\gaule\Trainingprogram\Training\bin\Debug\net10.0\Training.runtimeconfig.json
+C:\Users\gaule\Trainingprogram\Training\bin\Debug\net10.0\Training.dll
+C:\Users\gaule\Trainingprogram\Training\bin\Debug\net10.0\Training.pdb
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.dll
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\refint\Training.dll
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.pdb
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\Training.genruntimeconfig.cache
+C:\Users\gaule\Trainingprogram\Training\obj\Debug\net10.0\ref\Training.dll
